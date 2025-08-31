@@ -31,6 +31,9 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+*.png
+*.jpg
+*.jpeg
 
 # Installer logs
 pip-log.txt
@@ -205,3 +208,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+kidney_disease/research/kidney-CT-Scan-data.zip
